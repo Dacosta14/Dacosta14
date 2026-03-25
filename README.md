@@ -6,14 +6,29 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 ![PHP](https://img.shields.io/badge/PHP-purple)
+
+### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![React](https://img.shields.io/badge/React-61DAFB)
+
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express](https://img.shields.io/badge/Express-black)
+![Next.js](https://img.shields.io/badge/Next.js-black)
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-61DAFB)
+
+### 🗄️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green)
-
----
 
 ## 📌 Projetos em destaque
 
