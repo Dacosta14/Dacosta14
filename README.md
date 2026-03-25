@@ -25,7 +25,6 @@ Plataforma completa com autenticação, CRUD e painel administrativo
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dacosta14&show_icons=true&theme=dark&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dacosta14&layout=compact&theme=dark)
 
