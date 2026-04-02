@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Julia
+# Olá, eu sou a Julia
 
 💻 Desenvolvedora Full Stack em formação  
 🎓 Técnica em Desenvolvimento de Sistemas (ETEC)  
