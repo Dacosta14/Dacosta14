@@ -33,10 +33,6 @@ Animal Adoption System
 Complete platform with user authentication via JWT, full CRUD operations, and an admin panel for managing adoption listings.
 → github.com/Dacosta14/tcc-etec
 
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dacosta14&layout=compact&theme=dark)
-
 ---
 
 Contact
