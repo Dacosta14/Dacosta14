@@ -1,49 +1,44 @@
-# Olá, eu sou a Julia
+Julia Costa Silva
 
-💻 Desenvolvedora Full Stack em formação  
-🎓 Técnica em Desenvolvimento de Sistemas (ETEC)  
-🎓 Estudando Ciência da Computação (UNIP)  
+Full Stack Developer in training, currently pursuing a degree in Computer Science at UNIP and holding a technical diploma in Systems Development from ETEC. I build complete web applications with a focus on clean architecture, real-world functionality, and practical problem-solving.
 
----
+My projects go beyond CRUD — I work with relational databases, RESTful APIs, JWT authentication, containerization, and component-driven frontends. I'm comfortable across the full stack and always working toward production-ready code.
 
-## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Python](https://img.shields.io/badge/Python-blue)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
-![PHP](https://img.shields.io/badge/PHP-purple)
+Technical Stack
 
-### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![React](https://img.shields.io/badge/React-61DAFB)
+Languages
+JavaScript, Python, SQL, PHP
 
-### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express](https://img.shields.io/badge/Express-black)
-![Next.js](https://img.shields.io/badge/Next.js-black)
+Frontend
+React, Next.js, React Native, HTML5, CSS3, Tailwind CSS
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-61DAFB)
+Backend
+Node.js, Express
 
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+Databases
+MySQL, MongoDB
 
-## 📌 Projetos em destaque
+Tools & Infrastructure
+Git, Docker, JWT, REST APIs
 
-🐾 Sistema de Adoção de Animais  
-Plataforma completa com autenticação, CRUD e painel administrativo  
-→ (https://github.com/Dacosta14/tcc-etec)
 
----
+Featured Projects
 
-## 📊 Estatísticas
+OFCC — Mechanic Shop Management System
+Full stack system for managing clients, vehicles, service orders, and parts inventory. Built with React, Node.js, Express and MySQL. Features a Kanban board for service order tracking, client history modals, PDF generation, and Docker containerization.
+→ github.com/Dacosta14/ofcc-docker
+
+Animal Adoption System
+Complete platform with user authentication via JWT, full CRUD operations, and an admin panel for managing adoption listings.
+→ github.com/Dacosta14/tcc-etec
+## GitHub Stats
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dacosta14&layout=compact&theme=dark)
 
 ---
 
-## 📫 Contato
-- Email: jc854406@gmail.com
+Contact
+
+jc854406@gmail.com
