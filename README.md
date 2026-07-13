@@ -54,12 +54,6 @@ Complete platform with user authentication via JWT, full CRUD operations, and an
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dacosta14&layout=compact&theme=dark)
-
----
-
 ## Contact
 
 jc854406@gmail.com
