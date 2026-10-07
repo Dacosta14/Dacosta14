@@ -2,7 +2,7 @@
 
 Full Stack Developer in training, currently pursuing a degree in Computer Science at UNIP and holding a technical diploma in Systems Development from ETEC. I build complete web applications with a focus on clean architecture, real-world functionality, and practical problem-solving.
 
-My projects go beyond CRUD — I work with relational databases, RESTful APIs, JWT authentication, containerization, and component-driven frontends. I'm comfortable across the full stack and always working toward production-ready code.
+I work with relational databases, RESTful APIs, JWT authentication, containerization, and component-driven frontends. I'm comfortable across the full stack and always working toward production-ready code.
 
 ---
 
